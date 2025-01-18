@@ -9,21 +9,20 @@
 -------
 
 
-![Cover](https://github.com/Star-Fairy/prompts-recipe-to-create-a-ebook/blob/main/.github/assets/1%20-%20DIVULGA%C3%87%C3%83O.png?raw=true)
 
-# Projeto EBOOK Gerado por I.A.s
+# Projeto Tabela Financeira feita em Excel
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar uma tabela financeira com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Projeto com o objetivo de gerar uma tabela financeira no Excel e usar I.A.s para gerar Insights
 
 <a href="https://github.com/Star-Fairy/prompts-recipe-to-create-a-ebook/blob/main/output/Manual%20da%20Criatividade%20e%20Originalidade.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [Excel]
+- [ChatGPT](https://chatgpt.com/)
 
 
 ## ✨ Features
