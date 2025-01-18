@@ -17,7 +17,7 @@
 
 Projeto com o objetivo de gerar uma tabela financeira no Excel e usar I.A.s para gerar Insights
 
-<a href="https://github.com/Star-Fairy/prompts-recipe-to-create-a-ebook/blob/main/output/Manual%20da%20Criatividade%20e%20Originalidade.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Star-Fairy/prompts-recipe-to-create-a-ebook/blob/main/output/Manual%20da%20Criatividade%20e%20Originalidade.pdf" title="View PDF now"> 📕:moneybag: Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
